@@ -85,8 +85,4 @@ zaibaka page kamar haka
 ![GitHub Logo](vite.png)
 
 👏 congratulation dan uwa yanzun kasan yadda zaka creating project a react. idan kasamu wani error zaka iya yimin magana ta WhatsApp ko Facebook 
-`ALLAH YABADA YA'A`
-<!---
-cybersmart-dev/cybersmart-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`ALLAH YABADA SA'A`
