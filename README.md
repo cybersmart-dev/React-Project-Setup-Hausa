@@ -22,7 +22,7 @@ Abubuwan da kake bukata kafin kafara react development sun hada da 👇
 - Code Editor [What is code editor](https://www.nobledesktop.com/learn/code-editors/what-is-code-editors)
 
 `**Nodejs**` open-source cross platform runtime environment Wanda yake baka damar execute JavaScript ba'a browser ba direct a computer
-`**Code Editor**` code editor tool ne na developer wanda yakebashi damar rubuta code aciki cikin sauki dareda syntax highlight populars daga ciki sun hada
+`**Code Editor**` code editor tool ne na developer wanda yakebashi damar rubuta code aciki, cikin sauki tareda syntax highlight. populars daga ciki sun hada
 - Visual Studio Code,
 - Atom,
 - Notepad++ da,
@@ -67,7 +67,7 @@ Select a variant:
 
 ```
 #### Project setup
-bayan kazabi framework da variant zaimaka creating files da kuma folders saiza shika cikin project dinka kayi install dependencies
+bayan kazabi framework da variant zaimaka creating files da kuma folders saika shika cikin project dinka kayi install dependencies
 
 ```shell
 cd my-vite-app
@@ -82,7 +82,7 @@ npm run dev
 bayan yayi running successful saika bude wannan a browser [http://127.0.0.1:5173](http://127.0.0.1:5173)
 
 zaibaka page kamar haka 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Logo](vite.png)
 
 👏 congratulation dan uwa yanzun kasan yadda zaka creating project a react. idan kasamu wani error zaka iya yimin magana ta WhatsApp ko Facebook 
 `ALLAH YABADA YA'A`
